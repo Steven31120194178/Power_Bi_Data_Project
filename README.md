@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Welcome to my Power BI project. In this session, we will explore a series of dashboards featuring various charts, gain insights into the concepts behind Power Query and DAX, and demonstrate how to interact with and manipulate visualizations using Parameters and Slicers.
   
 
