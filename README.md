@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Welcome to my Power BI project. In this session, we will explore a series of dashboards featuring various charts, gain insights into the concepts behind Power Query and DAX, and demonstrate how to interact with and manipulate visualizations using Parameters and Slicers.
   
 
@@ -212,3 +213,6 @@ The Data Jobs Dashboard provides a comprehensive snapshot of data-driven job mar
 The highest-paying opportunities are concentrated in advanced and senior positions such as Senior Data Scientist, Machine Learning Engineer, and Senior Data Engineer, reflecting the growing need for expertise in AI, automation, and large-scale data systems.
 
 Overall, highlights a market where skilled data professionals are in strong demand, broad skill sets are rewarded, and continuous learning is essential for reaching top-tier roles and salary levels.
+=======
+hello
+>>>>>>> 9d61664d11027e4987a06feeec2e2721fd117a26
